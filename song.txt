@@ -5,6 +5,9 @@ on this their chosen battle field
 
 Form the lines
 Shield by shield
+<<<<<<< HEAD
 sdfasdfasdf asdf asdf asdf asdf 
 asdf sadf asdf asdf asdf
 -------------------------------------
+=======
+>>>>>>> parent of 49047ca (Finished whole song)
